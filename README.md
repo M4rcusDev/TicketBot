@@ -12,7 +12,7 @@ To start this bot, keep this steps:
 3- Open the folder in your Visual Studio Code, then replace the token bot and the channels ID.
 
 
-4- Invite the bot to the server, then open a terminal and execute "node ."
+4- Invite the bot to the server, then open a terminal and execute: "npm init -y" - "npm i discord.js" - and then, to start the bot, execute: "node ."
 
 
 5- The ticket menu will be sent in the channel that you put!
